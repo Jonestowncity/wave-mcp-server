@@ -1,0 +1,4 @@
+# DO NOT COMMIT THIS FILE — contains real API keys
+cursor-mcp-config-local.json
+.env.local
+credentials.json
